@@ -25,6 +25,8 @@ And this is Groq responce
 
 Completed the Lab 2B Turnkey Walkthrough. Built a pipeline to extract structured JSON from raw resume text using Gemini's structured-output API and Pydantic validation.
 
+The Day2 task completed [Day2_ResumeExtractor.ipynb](Day2_ResumeExtractor.ipynb)
+
 ### Errors Handled & Edge Cases Addressed:
 1. **Markdown fence wrapping** (`` ```json ... ``` ``): 
    Implemented a fallback retry prompt that asks Gemini to output raw JSON without fences. This handles cases where the model disobeys the `application/json` mime type constraint.
