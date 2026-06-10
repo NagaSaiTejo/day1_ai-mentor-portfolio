@@ -10,5 +10,7 @@ Public portfolio of 12-day AI Trainer Workshop. By Day 12: 6 daily notebooks + c
 - Hello-Groq call working -see [Day1_Setup1.ipynb](Day1_Setup1.ipynb)
 - 4-tool comparison matrix from Lab 1A: see screenshot below
 
+This is Gemini responce
 ![Gemini first call](gemini_first_call.png)
+And this is Groq responce
 ![Groq first call](groq_first_call.png)
