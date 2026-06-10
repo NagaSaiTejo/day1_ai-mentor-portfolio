@@ -1,4 +1,4 @@
-# AI Mentor Bootcamp — <Your Full Name>
+# AI Mentor Bootcamp - Tejomurthula Naga Sai Satyanarayana Murthy
 
 Public portfolio of 12-day AI Trainer Workshop. By Day 12: 6 daily notebooks + capstone Streamlit URL.
 
@@ -8,7 +8,7 @@ Public portfolio of 12-day AI Trainer Workshop. By Day 12: 6 daily notebooks + c
 - Groq API key provisioned
 - Hello-Gemini call working — see [Day1_Setup.ipynb](Day1_Setup.ipynb)
 - Hello-Groq call working -see [Day1_Setup1.ipynb](Day1_Setup1.ipynb)
-- 4-tool comparison matrix from Lab 1A: see screenshot below
+- 2-tool responces from Lab 1B: see screenshots below
 
 This is Gemini responce
 ![Gemini first call](gemini_first_call.png)
