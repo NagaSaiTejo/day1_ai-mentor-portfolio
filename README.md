@@ -36,3 +36,14 @@ The Day2 task completed [Day2_ResumeExtractor.ipynb](Day2_ResumeExtractor.ipynb)
    Structured the caller function to gracefully catch the `ValidationError` with "Field required" thrown by Pydantic when receiving blank input instead of crashing the pipeline.
 
 **Sample resumes processed: 3 / 3 successful**
+
+## Day 3 - Verification Chain
+
+Completed the Lab 3A Turnkey Walkthrough on AI hallucination and fact-checking. Conducted a 3-step verification chain (AI Generation → Perplexity Check → Primary Source) on AI-generated placement statistics.
+
+The completed verification matrix and reflection are documented in [Day3_Verification.md](Day-3_VerificationChain/Day3_VerificationChain.md).
+
+### Key Takeaways & Findings:
+1. **Confidence does not equal correctness**: Discovered that the most authoritative-sounding claims (complete with specific years and organizational attributions) were often partially or entirely fabricated by the LLM.
+2. **AI Search is fallible**: Even tools like Perplexity that cite sources can link to summaries or unrelated datasets that don't actually support the core claim.
+3. **The Human Verification Step**: The final verification step belongs to the human every time; you must open the primary source and check the specific numbers/context directly.
