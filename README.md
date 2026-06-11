@@ -41,7 +41,7 @@ The Day2 task completed [Day2_ResumeExtractor.ipynb](Day2_ResumeExtractor.ipynb)
 
 Completed the Lab 3A Turnkey Walkthrough on AI hallucination and fact-checking. Conducted a 3-step verification chain (AI Generation → Perplexity Check → Primary Source) on AI-generated placement statistics.
 
-The completed verification matrix and reflection are documented in [Day3_Verification.md](Day-3_VerificationChain/Day3_VerificationChain.md).
+The completed verification matrix and reflection are documented in [Day3_Verification.md](Day3_VerificationChain.md).
 
 ### Key Takeaways & Findings:
 1. **Confidence does not equal correctness**: Discovered that the most authoritative-sounding claims (complete with specific years and organizational attributions) were often partially or entirely fabricated by the LLM.
